@@ -1,0 +1,111 @@
+
+Goss.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goss/goss_arm_L
+  rotate: false
+  xy: 238, 76
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+Goss/goss_arm_R
+  rotate: false
+  xy: 152, 89
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+Goss/goss_body_back
+  rotate: false
+  xy: 2, 2
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+Goss/goss_body_front
+  rotate: false
+  xy: 2, 93
+  size: 148, 153
+  orig: 148, 153
+  offset: 0, 0
+  index: -1
+Goss/goss_eye_01
+  rotate: true
+  xy: 118, 35
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+Goss/goss_eye_02
+  rotate: false
+  xy: 316, 125
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+Goss/goss_eye_03
+  rotate: false
+  xy: 412, 152
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+Goss/goss_eye_04
+  rotate: false
+  xy: 316, 79
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+Goss/goss_eye_05
+  rotate: false
+  xy: 316, 100
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+Goss/goss_head_blue
+  rotate: false
+  xy: 412, 165
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+Goss/goss_head_cap
+  rotate: false
+  xy: 152, 150
+  size: 168, 96
+  orig: 168, 96
+  offset: 0, 0
+  index: -1
+Goss/goss_head_red
+  rotate: false
+  xy: 322, 150
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+Goss/goss_mouse_01
+  rotate: true
+  xy: 501, 232
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Goss/goss_mouse_02
+  rotate: false
+  xy: 144, 57
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Goss/goss_mouse_03
+  rotate: false
+  xy: 118, 9
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

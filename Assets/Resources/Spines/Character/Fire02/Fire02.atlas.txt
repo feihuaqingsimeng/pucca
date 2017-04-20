@@ -1,0 +1,139 @@
+
+Fire02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire02/Fire02_arm_L
+  rotate: false
+  xy: 118, 20
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_arm_R
+  rotate: false
+  xy: 118, 59
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_body
+  rotate: true
+  xy: 465, 201
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_eye01
+  rotate: false
+  xy: 378, 149
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_eye01_02
+  rotate: false
+  xy: 122, 119
+  size: 89, 24
+  orig: 89, 24
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_eye02
+  rotate: false
+  xy: 213, 125
+  size: 88, 18
+  orig: 88, 18
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_eye02_02
+  rotate: false
+  xy: 118, 99
+  size: 87, 18
+  orig: 87, 18
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_eye03
+  rotate: false
+  xy: 378, 215
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_eye04
+  rotate: false
+  xy: 378, 179
+  size: 85, 34
+  orig: 85, 34
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_head
+  rotate: false
+  xy: 2, 125
+  size: 118, 129
+  orig: 118, 129
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_head_02
+  rotate: false
+  xy: 2, 2
+  size: 114, 121
+  orig: 114, 121
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_head_blue
+  rotate: false
+  xy: 122, 145
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_head_red
+  rotate: false
+  xy: 250, 145
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_leg_L
+  rotate: false
+  xy: 465, 180
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_leg_R
+  rotate: false
+  xy: 466, 151
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_mouse01
+  rotate: true
+  xy: 497, 174
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_mouse01_02
+  rotate: false
+  xy: 303, 128
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_mouse02
+  rotate: true
+  xy: 158, 30
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Fire02/Fire02_mouse03
+  rotate: false
+  xy: 158, 64
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1

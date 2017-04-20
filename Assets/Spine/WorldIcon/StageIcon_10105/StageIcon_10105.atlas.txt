@@ -1,0 +1,20 @@
+
+StageIcon_10105.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tutorialmap_stage05_acc
+  rotate: true
+  xy: 179, 49
+  size: 184, 75
+  orig: 184, 75
+  offset: 0, 0
+  index: -1
+tutorialmap_stage05_bottom
+  rotate: false
+  xy: 2, 2
+  size: 175, 231
+  orig: 175, 231
+  offset: 0, 0
+  index: -1

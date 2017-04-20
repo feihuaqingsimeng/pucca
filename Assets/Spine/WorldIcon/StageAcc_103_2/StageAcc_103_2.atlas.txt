@@ -1,0 +1,13 @@
+
+StageAcc_103_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+village near port_cruiser
+  rotate: false
+  xy: 2, 2
+  size: 235, 151
+  orig: 235, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+Moss.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Moss/moss_arm_L
+  rotate: true
+  xy: 287, 200
+  size: 50, 101
+  orig: 50, 101
+  offset: 0, 0
+  index: -1
+Moss/moss_arm_R
+  rotate: true
+  xy: 134, 117
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+Moss/moss_body
+  rotate: false
+  xy: 2, 101
+  size: 130, 149
+  orig: 130, 149
+  offset: 0, 0
+  index: -1
+Moss/moss_eye_01
+  rotate: false
+  xy: 242, 131
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Moss/moss_eye_02
+  rotate: true
+  xy: 390, 157
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Moss/moss_eye_03
+  rotate: false
+  xy: 359, 158
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Moss/moss_eye_04
+  rotate: true
+  xy: 423, 160
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Moss/moss_eye_05
+  rotate: false
+  xy: 462, 210
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Moss/moss_hair_01
+  rotate: false
+  xy: 134, 170
+  size: 151, 80
+  orig: 151, 80
+  offset: 0, 0
+  index: -1
+Moss/moss_hair_02
+  rotate: false
+  xy: 2, 12
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+Moss/moss_head_blue
+  rotate: false
+  xy: 390, 188
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Moss/moss_head_red
+  rotate: false
+  xy: 287, 136
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Moss/moss_leg_L
+  rotate: true
+  xy: 176, 99
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+Moss/moss_leg_R
+  rotate: true
+  xy: 134, 99
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+Moss/moss_mouse_01
+  rotate: false
+  xy: 2, 2
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Moss/moss_mouse_02
+  rotate: false
+  xy: 462, 189
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Moss/moss_mouse_03
+  rotate: true
+  xy: 501, 233
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1

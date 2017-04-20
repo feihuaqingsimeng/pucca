@@ -1,0 +1,167 @@
+
+Fiya.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fiya/Fiya_arm_L
+  rotate: false
+  xy: 116, 73
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_arm_L_02
+  rotate: false
+  xy: 351, 197
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_arm_R
+  rotate: false
+  xy: 411, 197
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_arm_R_02
+  rotate: false
+  xy: 116, 11
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_body
+  rotate: false
+  xy: 285, 189
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_eye01
+  rotate: true
+  xy: 202, 81
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_eye01_02
+  rotate: true
+  xy: 166, 68
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_eye02
+  rotate: false
+  xy: 351, 165
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_eye02_02
+  rotate: true
+  xy: 166, 2
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_eye03
+  rotate: false
+  xy: 119, 135
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_eye04
+  rotate: true
+  xy: 238, 79
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_head
+  rotate: false
+  xy: 2, 143
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_head_02
+  rotate: false
+  xy: 2, 28
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_head_blue
+  rotate: false
+  xy: 119, 178
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_head_red
+  rotate: false
+  xy: 202, 178
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_leg_L
+  rotate: false
+  xy: 452, 154
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_leg_L_02
+  rotate: false
+  xy: 202, 39
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_leg_R
+  rotate: false
+  xy: 235, 36
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_leg_R_02
+  rotate: true
+  xy: 408, 163
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_mouse01
+  rotate: false
+  xy: 285, 162
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_mouse01_02
+  rotate: false
+  xy: 2, 2
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_mouse02
+  rotate: false
+  xy: 191, 139
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+Fiya/Fiya_mouse03
+  rotate: true
+  xy: 471, 198
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1

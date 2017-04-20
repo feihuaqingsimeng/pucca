@@ -1,0 +1,118 @@
+
+Lichen.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lichen/lichen_arm_L
+  rotate: true
+  xy: 2, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Lichen/lichen_arm_R
+  rotate: true
+  xy: 34, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Lichen/lichen_body
+  rotate: true
+  xy: 276, 22
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+Lichen/lichen_eye_01
+  rotate: false
+  xy: 140, 32
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+Lichen/lichen_eye_02
+  rotate: false
+  xy: 73, 22
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+Lichen/lichen_eye_03
+  rotate: false
+  xy: 200, 41
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Lichen/lichen_eye_04
+  rotate: false
+  xy: 140, 47
+  size: 58, 9
+  orig: 58, 9
+  offset: 0, 0
+  index: -1
+Lichen/lichen_eye_05
+  rotate: true
+  xy: 478, 77
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+Lichen/lichen_head_blue
+  rotate: false
+  xy: 391, 66
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1
+Lichen/lichen_head_red
+  rotate: false
+  xy: 391, 3
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+Lichen/lichen_leg_L
+  rotate: false
+  xy: 131, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Lichen/lichen_leg_R
+  rotate: false
+  xy: 243, 39
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Lichen/lichen_mouse_01
+  rotate: false
+  xy: 73, 36
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Lichen/lichen_mouse_02
+  rotate: false
+  xy: 2, 31
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Lichen/lichen_mouse_03
+  rotate: false
+  xy: 65, 2
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Lichen/lichen_tail
+  rotate: false
+  xy: 2, 58
+  size: 272, 68
+  orig: 272, 68
+  offset: 0, 0
+  index: -1

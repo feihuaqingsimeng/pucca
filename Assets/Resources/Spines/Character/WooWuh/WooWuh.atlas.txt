@@ -1,0 +1,174 @@
+
+WooWuh.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Woowuh/Woowuh_arm_L
+  rotate: false
+  xy: 227, 44
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_arm_L_02
+  rotate: false
+  xy: 377, 2
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_arm_L_03
+  rotate: false
+  xy: 2, 2
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_arm_R
+  rotate: false
+  xy: 274, 45
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_arm_R_02
+  rotate: true
+  xy: 322, 28
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_arm_R_03
+  rotate: false
+  xy: 406, 60
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_body
+  rotate: false
+  xy: 332, 76
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_eye01
+  rotate: false
+  xy: 409, 146
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_eye01_02
+  rotate: false
+  xy: 135, 99
+  size: 97, 46
+  orig: 97, 46
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_eye02
+  rotate: false
+  xy: 406, 98
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_eye02_02
+  rotate: false
+  xy: 234, 100
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_eye03
+  rotate: false
+  xy: 135, 45
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_eye04
+  rotate: false
+  xy: 409, 197
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_head
+  rotate: false
+  xy: 2, 39
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_head_02
+  rotate: false
+  xy: 2, 148
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_head_blue
+  rotate: false
+  xy: 143, 147
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_head_red
+  rotate: false
+  xy: 276, 147
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_hip
+  rotate: false
+  xy: 43, 13
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_leg_L
+  rotate: false
+  xy: 429, 30
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_leg_R
+  rotate: false
+  xy: 190, 14
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_mouse01
+  rotate: true
+  xy: 466, 49
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_mouse01_02
+  rotate: false
+  xy: 135, 7
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_mouse02
+  rotate: false
+  xy: 224, 3
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Woowuh/Woowuh_mouse03
+  rotate: false
+  xy: 274, 3
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1

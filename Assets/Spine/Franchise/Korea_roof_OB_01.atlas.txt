@@ -1,0 +1,20 @@
+
+Korea_roof_OB_01.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Korea/Korea_roof_OB_01
+  rotate: true
+  xy: 2, 2
+  size: 55, 124
+  orig: 55, 124
+  offset: 0, 0
+  index: -1
+Korea/Korea_roof_OB_02
+  rotate: false
+  xy: 128, 4
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1

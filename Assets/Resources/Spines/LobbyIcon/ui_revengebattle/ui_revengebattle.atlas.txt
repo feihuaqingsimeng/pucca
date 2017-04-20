@@ -1,0 +1,27 @@
+
+ui_revengebattle.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_revengebattle/sc_revengebattle_01
+  rotate: false
+  xy: 152, 126
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+ui_revengebattle/sc_revengebattle_02
+  rotate: false
+  xy: 2, 120
+  size: 148, 99
+  orig: 148, 99
+  offset: 0, 0
+  index: -1
+ui_revengebattle/sc_revengebattle_03
+  rotate: false
+  xy: 2, 2
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1

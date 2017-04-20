@@ -1,0 +1,153 @@
+
+Foo_Dog.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Foo_Dog/Foo_Dog_arm_L
+  rotate: true
+  xy: 274, 13
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_arm_L_02
+  rotate: false
+  xy: 444, 176
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_arm_R
+  rotate: true
+  xy: 196, 2
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_arm_R_02
+  rotate: true
+  xy: 117, 2
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_body
+  rotate: false
+  xy: 424, 97
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_eye01
+  rotate: false
+  xy: 345, 195
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_eye01_02
+  rotate: false
+  xy: 231, 197
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_eye02
+  rotate: false
+  xy: 231, 142
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_eye02_02
+  rotate: false
+  xy: 2, 2
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_eye03
+  rotate: false
+  xy: 229, 67
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_eye04
+  rotate: false
+  xy: 330, 149
+  size: 92, 44
+  orig: 92, 44
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_head
+  rotate: false
+  xy: 117, 162
+  size: 112, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_head_02
+  rotate: false
+  xy: 117, 68
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_head_blue
+  rotate: false
+  xy: 2, 159
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_head_red
+  rotate: false
+  xy: 2, 62
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_leg_L
+  rotate: false
+  xy: 367, 63
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_leg_R
+  rotate: false
+  xy: 356, 21
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_mouse01
+  rotate: false
+  xy: 322, 105
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_mouse01_02
+  rotate: false
+  xy: 330, 127
+  size: 81, 20
+  orig: 81, 20
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_mouse02
+  rotate: false
+  xy: 322, 82
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+Foo_Dog/Foo_Dog_mouse03
+  rotate: false
+  xy: 396, 31
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

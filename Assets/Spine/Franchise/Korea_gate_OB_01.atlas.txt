@@ -1,0 +1,20 @@
+
+Korea_gate_OB_01.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Korea/Korea_gate_OB_01
+  rotate: true
+  xy: 2, 2
+  size: 44, 102
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+Korea/Korea_gate_OB_02
+  rotate: false
+  xy: 106, 12
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1

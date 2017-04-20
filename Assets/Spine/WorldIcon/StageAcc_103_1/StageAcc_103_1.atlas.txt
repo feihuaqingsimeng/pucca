@@ -1,0 +1,13 @@
+
+StageAcc_103_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+village near port_sea01
+  rotate: false
+  xy: 2, 2
+  size: 640, 218
+  orig: 640, 218
+  offset: 0, 0
+  index: -1

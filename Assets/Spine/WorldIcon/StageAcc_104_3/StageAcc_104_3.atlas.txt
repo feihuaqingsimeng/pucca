@@ -1,0 +1,13 @@
+
+StageAcc_104_3.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage04_bg_03
+  rotate: false
+  xy: 2, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1

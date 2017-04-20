@@ -1,0 +1,34 @@
+
+Lobby_bg_01_acc01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lobby_bg_01/bg_01_acc_L01
+  rotate: false
+  xy: 2, 237
+  size: 405, 256
+  orig: 405, 256
+  offset: 0, 0
+  index: -1
+Lobby_bg_01/bg_01_acc_L02
+  rotate: false
+  xy: 727, 280
+  size: 211, 213
+  orig: 211, 213
+  offset: 0, 0
+  index: -1
+Lobby_bg_01/bg_01_acc_R01
+  rotate: false
+  xy: 409, 237
+  size: 316, 256
+  orig: 316, 256
+  offset: 0, 0
+  index: -1
+Lobby_bg_01/bg_01_acc_R02
+  rotate: false
+  xy: 2, 2
+  size: 298, 233
+  orig: 298, 233
+  offset: 0, 0
+  index: -1

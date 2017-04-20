@@ -1,0 +1,27 @@
+
+StageAcc_101_2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tutorialmap_acc_01
+  rotate: false
+  xy: 2, 82
+  size: 270, 167
+  orig: 270, 167
+  offset: 0, 0
+  index: -1
+tutorialmap_acc_02
+  rotate: false
+  xy: 274, 138
+  size: 229, 111
+  orig: 229, 111
+  offset: 0, 0
+  index: -1
+tutorialmap_acc_03
+  rotate: false
+  xy: 2, 2
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1

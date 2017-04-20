@@ -1,0 +1,160 @@
+
+Sengking.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sengking/sengking_acc_01
+  rotate: true
+  xy: 244, 210
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+Sengking/sengking_acc_02
+  rotate: true
+  xy: 304, 100
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Sengking/sengking_acc_03
+  rotate: false
+  xy: 2, 97
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+Sengking/sengking_acc_04
+  rotate: false
+  xy: 218, 112
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+Sengking/sengking_arm_L
+  rotate: true
+  xy: 136, 71
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Sengking/sengking_arm_R
+  rotate: false
+  xy: 208, 34
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Sengking/sengking_body
+  rotate: false
+  xy: 136, 152
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+Sengking/sengking_eye_01
+  rotate: false
+  xy: 218, 74
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+Sengking/sengking_eye_02
+  rotate: false
+  xy: 381, 175
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Sengking/sengking_eye_03
+  rotate: false
+  xy: 375, 138
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+Sengking/sengking_eye_04
+  rotate: true
+  xy: 129, 2
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Sengking/sengking_eye_05
+  rotate: true
+  xy: 169, 2
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Sengking/sengking_head
+  rotate: false
+  xy: 2, 19
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1
+Sengking/sengking_head_blue
+  rotate: false
+  xy: 381, 213
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+Sengking/sengking_head_red
+  rotate: false
+  xy: 136, 109
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+Sengking/sengking_leg_L
+  rotate: true
+  xy: 313, 157
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+Sengking/sengking_leg_R
+  rotate: true
+  xy: 244, 150
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Sengking/sengking_mouse_01
+  rotate: false
+  xy: 313, 138
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+Sengking/sengking_mouse_02
+  rotate: true
+  xy: 346, 105
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+Sengking/sengking_mouse_03
+  rotate: false
+  xy: 256, 7
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Sengking/sengking_mouse_04
+  rotate: false
+  xy: 208, 9
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+Sengking/sengking_tail
+  rotate: true
+  xy: 463, 185
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1

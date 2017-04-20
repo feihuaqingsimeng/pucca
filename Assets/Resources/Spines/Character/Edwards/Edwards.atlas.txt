@@ -1,0 +1,146 @@
+
+Edwards.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Edwards/edwards_s_arm_L
+  rotate: false
+  xy: 212, 49
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_arm_L_02
+  rotate: false
+  xy: 262, 109
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_arm_R
+  rotate: false
+  xy: 152, 52
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_arm_R_02
+  rotate: false
+  xy: 262, 47
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_body
+  rotate: false
+  xy: 322, 104
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_eye01
+  rotate: false
+  xy: 418, 197
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_eye01_02
+  rotate: true
+  xy: 135, 48
+  size: 78, 15
+  orig: 78, 15
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_eye03
+  rotate: false
+  xy: 399, 168
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_eye04
+  rotate: false
+  xy: 317, 169
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_head
+  rotate: false
+  xy: 2, 2
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_head_02
+  rotate: false
+  xy: 2, 128
+  size: 157, 124
+  orig: 157, 124
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_head_blue
+  rotate: false
+  xy: 317, 197
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_head_red
+  rotate: false
+  xy: 161, 111
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_leg_L
+  rotate: true
+  xy: 469, 162
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_leg_R
+  rotate: true
+  xy: 428, 136
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_mouse01
+  rotate: true
+  xy: 135, 8
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_mouse01_02
+  rotate: false
+  xy: 469, 145
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_mouse02
+  rotate: false
+  xy: 390, 132
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_mouse03
+  rotate: false
+  xy: 418, 214
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+Edwards/edwards_s_weapon
+  rotate: true
+  xy: 161, 168
+  size: 84, 154
+  orig: 84, 154
+  offset: 0, 0
+  index: -1

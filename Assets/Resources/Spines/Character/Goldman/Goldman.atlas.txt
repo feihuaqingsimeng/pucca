@@ -1,0 +1,160 @@
+
+Goldman.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goldman/Goldman_arm_L
+  rotate: true
+  xy: 160, 19
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_arm_L_02
+  rotate: false
+  xy: 160, 68
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_arm_R
+  rotate: false
+  xy: 217, 68
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_arm_R_02
+  rotate: true
+  xy: 222, 19
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_body
+  rotate: false
+  xy: 171, 182
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_eye01
+  rotate: false
+  xy: 423, 181
+  size: 79, 28
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_eye01_02
+  rotate: false
+  xy: 338, 178
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_eye02
+  rotate: false
+  xy: 423, 151
+  size: 79, 28
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_eye02_02
+  rotate: false
+  xy: 245, 143
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_eye03
+  rotate: false
+  xy: 430, 211
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_eye04
+  rotate: false
+  xy: 245, 176
+  size: 91, 33
+  orig: 91, 33
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_head
+  rotate: false
+  xy: 2, 20
+  size: 156, 113
+  orig: 156, 113
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_head_02
+  rotate: false
+  xy: 2, 135
+  size: 167, 114
+  orig: 167, 114
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_head_blue
+  rotate: false
+  xy: 245, 211
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_head_red
+  rotate: false
+  xy: 341, 211
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_leg_L
+  rotate: false
+  xy: 299, 103
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_leg_R
+  rotate: true
+  xy: 299, 70
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_mouse01
+  rotate: false
+  xy: 84, 2
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_mouse01_02
+  rotate: false
+  xy: 2, 2
+  size: 80, 16
+  orig: 80, 16
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_mouse02
+  rotate: false
+  xy: 284, 39
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_mouse03
+  rotate: true
+  xy: 274, 76
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Goldman/Goldman_weapon
+  rotate: true
+  xy: 171, 132
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+StageIcon_10415.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stage_80_acc_01
+  rotate: false
+  xy: 430, 119
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Stage_80_acc_02
+  rotate: false
+  xy: 332, 63
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+Stage_80_acc_03
+  rotate: false
+  xy: 178, 2
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+Stage_80_acc_04
+  rotate: false
+  xy: 2, 11
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+Stage_80_acc_05
+  rotate: false
+  xy: 2, 59
+  size: 174, 185
+  orig: 174, 185
+  offset: 0, 0
+  index: -1
+Stage_80_acc_06
+  rotate: false
+  xy: 178, 85
+  size: 152, 159
+  orig: 152, 159
+  offset: 0, 0
+  index: -1
+Stage_80_bt
+  rotate: false
+  xy: 332, 155
+  size: 145, 89
+  orig: 145, 89
+  offset: 0, 0
+  index: -1

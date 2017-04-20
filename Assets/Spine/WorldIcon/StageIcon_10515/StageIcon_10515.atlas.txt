@@ -1,0 +1,34 @@
+
+StageIcon_10515.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage_15_01
+  rotate: false
+  xy: 180, 4
+  size: 76, 135
+  orig: 76, 135
+  offset: 0, 0
+  index: -1
+stage_15_02
+  rotate: false
+  xy: 258, 57
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+stage_15_03
+  rotate: false
+  xy: 2, 2
+  size: 176, 212
+  orig: 176, 212
+  offset: 0, 0
+  index: -1
+stage_15_04
+  rotate: false
+  xy: 180, 141
+  size: 182, 73
+  orig: 182, 73
+  offset: 0, 0
+  index: -1

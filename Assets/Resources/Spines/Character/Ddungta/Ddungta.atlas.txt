@@ -1,0 +1,174 @@
+
+Ddungta.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ddungta/ddungta_acc_01
+  rotate: false
+  xy: 133, 412
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_acc_02
+  rotate: false
+  xy: 2, 316
+  size: 123, 96
+  orig: 123, 96
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_acc_03
+  rotate: false
+  xy: 2, 414
+  size: 129, 93
+  orig: 129, 93
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_acc_04
+  rotate: false
+  xy: 247, 408
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_arm_L
+  rotate: false
+  xy: 339, 414
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_arm_R
+  rotate: false
+  xy: 221, 335
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_body
+  rotate: true
+  xy: 2, 18
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_eye_01
+  rotate: false
+  xy: 73, 4
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_eye_02
+  rotate: false
+  xy: 2, 2
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_eye_03
+  rotate: false
+  xy: 74, 18
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_eye_04
+  rotate: true
+  xy: 472, 442
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_eye_05
+  rotate: true
+  xy: 456, 434
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_head
+  rotate: false
+  xy: 2, 131
+  size: 108, 83
+  orig: 108, 83
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_head_blue
+  rotate: true
+  xy: 74, 35
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_head_red
+  rotate: false
+  xy: 127, 325
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_hip
+  rotate: false
+  xy: 2, 216
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_leg_L
+  rotate: false
+  xy: 307, 334
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_leg_R
+  rotate: false
+  xy: 394, 421
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_mouse_01
+  rotate: false
+  xy: 221, 325
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_mouse_02
+  rotate: true
+  xy: 112, 190
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_mouse_03
+  rotate: true
+  xy: 493, 461
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_mouse_04
+  rotate: false
+  xy: 311, 488
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_mouse_05
+  rotate: false
+  xy: 493, 485
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Ddungta/ddungta_weapon
+  rotate: true
+  xy: 133, 480
+  size: 27, 176
+  orig: 27, 176
+  offset: 0, 0
+  index: -1

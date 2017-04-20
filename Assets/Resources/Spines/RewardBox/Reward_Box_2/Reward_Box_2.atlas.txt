@@ -1,0 +1,27 @@
+
+Reward_Box_2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reward_Box_body2
+  rotate: true
+  xy: 318, 19
+  size: 229, 121
+  orig: 229, 121
+  offset: 0, 0
+  index: -1
+Reward_Box_cap2
+  rotate: true
+  xy: 2, 2
+  size: 246, 166
+  orig: 246, 166
+  offset: 0, 0
+  index: -1
+Reward_Box_open_cap2
+  rotate: true
+  xy: 170, 2
+  size: 246, 146
+  orig: 246, 146
+  offset: 0, 0
+  index: -1

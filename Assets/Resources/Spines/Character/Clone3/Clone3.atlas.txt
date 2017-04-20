@@ -1,0 +1,139 @@
+
+Clone3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clone3/Clone3_03_02
+  rotate: true
+  xy: 453, 106
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_arm_L
+  rotate: false
+  xy: 119, 2
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_arm_L_02
+  rotate: false
+  xy: 345, 100
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_arm_R
+  rotate: false
+  xy: 400, 103
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_arm_R_02
+  rotate: false
+  xy: 165, 2
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_body
+  rotate: true
+  xy: 217, 126
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_body_02
+  rotate: true
+  xy: 281, 93
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_eye01
+  rotate: false
+  xy: 395, 158
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_eye01_02
+  rotate: false
+  xy: 300, 205
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_eye02
+  rotate: false
+  xy: 119, 64
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_eye03
+  rotate: false
+  xy: 119, 115
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_eye04
+  rotate: false
+  xy: 119, 183
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_head
+  rotate: false
+  xy: 2, 151
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_head_02
+  rotate: false
+  xy: 2, 46
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_head_blue
+  rotate: false
+  xy: 395, 207
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_head_red
+  rotate: false
+  xy: 300, 156
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_leg_L
+  rotate: false
+  xy: 2, 11
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_leg_R
+  rotate: false
+  xy: 34, 12
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Clone3/Clone3_weapon
+  rotate: false
+  xy: 217, 189
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1

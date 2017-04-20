@@ -1,0 +1,174 @@
+
+Grove.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grove/grove_acc_001
+  rotate: false
+  xy: 2, 2
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+Grove/grove_acc_002
+  rotate: true
+  xy: 233, 248
+  size: 106, 61
+  orig: 106, 61
+  offset: 0, 0
+  index: -1
+Grove/grove_arm_L
+  rotate: true
+  xy: 314, 435
+  size: 75, 145
+  orig: 75, 145
+  offset: 0, 0
+  index: -1
+Grove/grove_arm_R
+  rotate: false
+  xy: 2, 86
+  size: 76, 147
+  orig: 76, 147
+  offset: 0, 0
+  index: -1
+Grove/grove_arm_R_02
+  rotate: false
+  xy: 219, 115
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Grove/grove_body
+  rotate: true
+  xy: 150, 356
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+Grove/grove_eye_01
+  rotate: false
+  xy: 296, 336
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+Grove/grove_eye_02
+  rotate: true
+  xy: 461, 446
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+Grove/grove_eye_03
+  rotate: false
+  xy: 80, 87
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+Grove/grove_eye_04
+  rotate: false
+  xy: 379, 418
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+Grove/grove_eye_05
+  rotate: false
+  xy: 288, 356
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+Grove/grove_head
+  rotate: false
+  xy: 116, 264
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+Grove/grove_head_acc_01
+  rotate: false
+  xy: 2, 388
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+Grove/grove_head_acc_02
+  rotate: true
+  xy: 2, 235
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: -1
+Grove/grove_head_acc_03
+  rotate: true
+  xy: 80, 109
+  size: 124, 51
+  orig: 124, 51
+  offset: 0, 0
+  index: -1
+Grove/grove_head_blud
+  rotate: false
+  xy: 133, 182
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+Grove/grove_head_red
+  rotate: false
+  xy: 133, 100
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+Grove/grove_leg_L
+  rotate: true
+  xy: 288, 376
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+Grove/grove_leg_R
+  rotate: false
+  xy: 219, 155
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Grove/grove_mouse_01
+  rotate: true
+  xy: 282, 233
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+Grove/grove_mouse_02
+  rotate: false
+  xy: 116, 245
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Grove/grove_mouse_03
+  rotate: false
+  xy: 288, 435
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Grove/grove_mouse_04
+  rotate: false
+  xy: 116, 369
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+Grove/grove_weapon
+  rotate: true
+  xy: 150, 445
+  size: 65, 162
+  orig: 65, 162
+  offset: 0, 0
+  index: -1

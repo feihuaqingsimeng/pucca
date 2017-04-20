@@ -1,0 +1,41 @@
+
+StageIcon_10408.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_icon_stage4_elite_02_acc01
+  rotate: false
+  xy: 239, 130
+  size: 168, 109
+  orig: 168, 109
+  offset: 0, 0
+  index: -1
+ui_icon_stage4_elite_02_acc01_02
+  rotate: false
+  xy: 239, 28
+  size: 149, 100
+  orig: 149, 100
+  offset: 0, 0
+  index: -1
+ui_icon_stage4_elite_02_acc02
+  rotate: false
+  xy: 409, 163
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+ui_icon_stage4_elite_02_acc02_02
+  rotate: false
+  xy: 409, 135
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+ui_icon_stage4_elite_02_body
+  rotate: false
+  xy: 2, 2
+  size: 235, 237
+  orig: 235, 237
+  offset: 0, 0
+  index: -1

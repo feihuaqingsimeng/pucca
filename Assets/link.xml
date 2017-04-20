@@ -1,0 +1,49 @@
+<linker>
+  <assembly fullname="PuccaWarsCommon">
+    <type fullname="Common.Packet" preserve="all"/>
+    <type fullname="Common.Packet.*" preserve="all"/>
+    <type fullname="Common.Util" preserve="all"/>
+    <type fullname="Common.Util.*" preserve="all"/>
+  </assembly>
+  <assembly fullname="mscorlib">
+    <namespace fullname="System.Security.Cryptography" preserve="all"/>
+    <type fullname="System.Collections.Generic" preserve="all"/>
+    <type fullname="System.Collections.Generic.*" preserve="all"/>
+    <!--
+    <namespace fullname="System.Collections.Generic" preserve="all"/>
+    <namespace fullname="System.Reflection" preserve="all"/>
+    <namespace fullname="System.Runtime.Serialization" preserve="all"/>
+    <namespace fullname="System.Runtime.Serialization.Formatters.Binary" preserve="all"/>
+    <namespace fullname="System.IO" preserve="all"/>
+    <namespace fullname="System.Text" preserve="all"/>
+    -->
+  </assembly>
+  <assembly fullname="System">
+    <namespace fullname="System.Security.Cryptography" preserve="all"/>
+    <type fullname="System.Collections.Generic" preserve="all"/>
+    <type fullname="System.Collections.Generic.*" preserve="all"/>
+    <!--
+    <type fullname="System.ComponentModel.CharConverter" preserve="all"/>
+    <type fullname="System.ComponentModel.ByteConverter" preserve="all"/>
+    <type fullname="System.ComponentModel.SByteConverter" preserve="all"/>
+    <type fullname="System.ComponentModel.Int16Converter" preserve="all"/>
+    <type fullname="System.ComponentModel.UInt16Converter" preserve="all"/>
+    <type fullname="System.ComponentModel.Int32Converter" preserve="all"/>
+    <type fullname="System.ComponentModel.UInt32Converter" preserve="all"/>
+    <type fullname="System.ComponentModel.Int64Converter" preserve="all"/>
+    <type fullname="System.ComponentModel.UInt64Converter" preserve="all"/>
+    <type fullname="System.ComponentModel.DoubleConverter" preserve="all"/>
+    <type fullname="System.ComponentModel.DecimalConverter" preserve="all"/>
+    <type fullname="System.ComponentModel.SingleConverter" preserve="all"/>
+    -->
+  </assembly>
+  <assembly fullname="System.Core">
+    <namespace fullname="System.Security.Cryptography" preserve="all"/>
+  </assembly>
+  <assembly fullname="System.Security">
+    <namespace fullname="System.Security.Cryptography" preserve="all"/>
+  </assembly>
+  <assembly fullname="Mono.Security">
+    <namespace fullname="System.Security.Cryptography" preserve="all"/>
+  </assembly>
+</linker>

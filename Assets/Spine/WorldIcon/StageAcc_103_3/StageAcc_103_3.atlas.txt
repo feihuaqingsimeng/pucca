@@ -1,0 +1,48 @@
+
+StageAcc_103_3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+village near port_acc_01
+  rotate: false
+  xy: 2, 2
+  size: 137, 51
+  orig: 137, 51
+  offset: 0, 0
+  index: -1
+village near port_acc_02
+  rotate: false
+  xy: 2, 55
+  size: 167, 58
+  orig: 167, 58
+  offset: 0, 0
+  index: -1
+village near port_acc_03
+  rotate: false
+  xy: 275, 39
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+village near port_acc_04
+  rotate: false
+  xy: 360, 69
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+village near port_acc_05
+  rotate: false
+  xy: 171, 19
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+village near port_acc_06
+  rotate: false
+  xy: 420, 80
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1

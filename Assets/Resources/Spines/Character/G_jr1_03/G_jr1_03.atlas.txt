@@ -1,0 +1,195 @@
+
+G_jr1_03.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_jr1_03/G_jr1_03_acc
+  rotate: false
+  xy: 261, 187
+  size: 129, 67
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_acc_02
+  rotate: false
+  xy: 130, 185
+  size: 129, 69
+  orig: 129, 69
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_arm_L
+  rotate: true
+  xy: 72, 5
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_arm_L_02
+  rotate: true
+  xy: 415, 119
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_arm_R
+  rotate: false
+  xy: 221, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_arm_R_02
+  rotate: false
+  xy: 367, 112
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_body
+  rotate: false
+  xy: 228, 120
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_eye01
+  rotate: true
+  xy: 391, 47
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_eye01_02
+  rotate: true
+  xy: 354, 43
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_eye02
+  rotate: true
+  xy: 461, 56
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_eye02_02
+  rotate: false
+  xy: 269, 2
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_eye03
+  rotate: false
+  xy: 2, 15
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_eye04
+  rotate: true
+  xy: 427, 54
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_hair
+  rotate: false
+  xy: 2, 152
+  size: 126, 102
+  orig: 126, 102
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_hair_02
+  rotate: false
+  xy: 2, 51
+  size: 124, 99
+  orig: 124, 99
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_head
+  rotate: false
+  xy: 392, 166
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_head_02
+  rotate: false
+  xy: 128, 30
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_head_blue
+  rotate: true
+  xy: 291, 112
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_head_red
+  rotate: true
+  xy: 278, 37
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_leg_L
+  rotate: false
+  xy: 470, 126
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_leg_R
+  rotate: true
+  xy: 335, 4
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_mouse01
+  rotate: false
+  xy: 169, 2
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_mouse01_02
+  rotate: false
+  xy: 127, 2
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_mouse02
+  rotate: false
+  xy: 367, 169
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_mouse03
+  rotate: true
+  xy: 375, 5
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_weapon
+  rotate: false
+  xy: 130, 122
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+G_jr1_03/G_jr1_03_weapon_acc
+  rotate: false
+  xy: 221, 55
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ui_shop_icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_shop_icon/ui_shop_icon_0
+  rotate: false
+  xy: 132, 47
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+ui_shop_icon/ui_shop_icon_01
+  rotate: false
+  xy: 2, 2
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1

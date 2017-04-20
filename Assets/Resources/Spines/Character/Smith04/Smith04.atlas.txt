@@ -1,0 +1,153 @@
+
+Smith04.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smith04/Smith04_arm_L
+  rotate: false
+  xy: 261, 42
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_arm_L_02
+  rotate: false
+  xy: 208, 45
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_arm_R
+  rotate: false
+  xy: 401, 138
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_arm_R_02
+  rotate: true
+  xy: 342, 146
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_body
+  rotate: false
+  xy: 442, 195
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_eye01
+  rotate: false
+  xy: 117, 36
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_eye01_02
+  rotate: false
+  xy: 130, 141
+  size: 97, 37
+  orig: 97, 37
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_eye02
+  rotate: false
+  xy: 208, 101
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_eye02_02
+  rotate: false
+  xy: 229, 141
+  size: 97, 37
+  orig: 97, 37
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_eye03
+  rotate: false
+  xy: 342, 194
+  size: 98, 60
+  orig: 98, 60
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_eye04
+  rotate: false
+  xy: 117, 76
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_head
+  rotate: false
+  xy: 2, 32
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_head_02
+  rotate: false
+  xy: 2, 143
+  size: 126, 111
+  orig: 126, 111
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_head_blue
+  rotate: false
+  xy: 130, 180
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_head_red
+  rotate: false
+  xy: 236, 180
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_leg_L
+  rotate: true
+  xy: 117, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_leg_R
+  rotate: false
+  xy: 299, 110
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_mouse01
+  rotate: false
+  xy: 2, 15
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_mouse02
+  rotate: false
+  xy: 150, 3
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_mouse03
+  rotate: false
+  xy: 191, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Smith04/Smith04_weapon
+  rotate: false
+  xy: 454, 139
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1

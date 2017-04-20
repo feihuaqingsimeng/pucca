@@ -1,0 +1,20 @@
+
+Lobby_bg_06_acc01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lobby_bg_06/bg_06_acc01
+  rotate: false
+  xy: 2, 2
+  size: 303, 244
+  orig: 303, 244
+  offset: 0, 0
+  index: -1
+Lobby_bg_06/bg_06_acc02
+  rotate: false
+  xy: 307, 40
+  size: 261, 206
+  orig: 261, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+StageIcon_10605.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stage_126
+  rotate: false
+  xy: 2, 2
+  size: 194, 248
+  orig: 194, 248
+  offset: 0, 0
+  index: -1

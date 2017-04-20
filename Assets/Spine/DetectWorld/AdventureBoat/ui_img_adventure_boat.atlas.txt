@@ -1,0 +1,41 @@
+
+ui_img_adventure_boat.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_img_adventure_box_b/ui_img_adventure_boat_0
+  rotate: false
+  xy: 138, 139
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+ui_img_adventure_box_b/ui_img_adventure_boat_1
+  rotate: true
+  xy: 2, 2
+  size: 18, 74
+  orig: 18, 74
+  offset: 0, 0
+  index: -1
+ui_img_adventure_box_b/ui_img_adventure_boat_2
+  rotate: true
+  xy: 162, 54
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+ui_img_adventure_box_b/ui_img_adventure_boat_a
+  rotate: false
+  xy: 2, 113
+  size: 134, 129
+  orig: 134, 129
+  offset: 0, 0
+  index: -1
+ui_img_adventure_box_b/ui_img_adventure_boat_bottom
+  rotate: false
+  xy: 2, 22
+  size: 158, 89
+  orig: 158, 89
+  offset: 0, 0
+  index: -1

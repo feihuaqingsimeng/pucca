@@ -1,0 +1,160 @@
+
+Jintta.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jintta/Jintta_arm_L
+  rotate: true
+  xy: 329, 131
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_arm_L_02
+  rotate: false
+  xy: 243, 82
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_arm_R
+  rotate: false
+  xy: 387, 124
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_arm_R_02
+  rotate: false
+  xy: 439, 131
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_body
+  rotate: false
+  xy: 433, 187
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_body_back
+  rotate: false
+  xy: 120, 175
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_eye01
+  rotate: true
+  xy: 202, 44
+  size: 89, 39
+  orig: 89, 39
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_eye01_02
+  rotate: false
+  xy: 120, 135
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_eye02
+  rotate: false
+  xy: 239, 139
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_eye02_02
+  rotate: true
+  xy: 114, 40
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_eye03
+  rotate: true
+  xy: 154, 44
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_eye04
+  rotate: false
+  xy: 154, 2
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_head
+  rotate: false
+  xy: 2, 12
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_head_02
+  rotate: false
+  xy: 2, 134
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_head_blue
+  rotate: false
+  xy: 239, 179
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_head_red
+  rotate: false
+  xy: 336, 179
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_leg_L
+  rotate: false
+  xy: 243, 47
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_leg_R
+  rotate: false
+  xy: 293, 104
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_mouse01
+  rotate: true
+  xy: 498, 232
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_mouse01_02
+  rotate: false
+  xy: 214, 163
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_mouse02
+  rotate: false
+  xy: 114, 18
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Jintta/Jintta_mouse03
+  rotate: false
+  xy: 214, 135
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1

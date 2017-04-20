@@ -1,0 +1,146 @@
+
+Dada.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dada/Dada_arm_R
+  rotate: true
+  xy: 264, 112
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Dada/Dada_arm_l
+  rotate: true
+  xy: 208, 115
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Dada/Dada_body
+  rotate: false
+  xy: 430, 161
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Dada/Dada_eye01
+  rotate: false
+  xy: 112, 88
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+Dada/Dada_eye01_02
+  rotate: false
+  xy: 338, 162
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+Dada/Dada_eye02
+  rotate: false
+  xy: 427, 217
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+Dada/Dada_eye02_02
+  rotate: false
+  xy: 112, 50
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+Dada/Dada_eye03
+  rotate: false
+  xy: 338, 202
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+Dada/Dada_eye04
+  rotate: false
+  xy: 116, 128
+  size: 90, 31
+  orig: 90, 31
+  offset: 0, 0
+  index: -1
+Dada/Dada_head
+  rotate: false
+  xy: 2, 140
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+Dada/Dada_head02
+  rotate: false
+  xy: 2, 23
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+Dada/Dada_head_blue
+  rotate: false
+  xy: 116, 161
+  size: 109, 93
+  orig: 109, 93
+  offset: 0, 0
+  index: -1
+Dada/Dada_head_red
+  rotate: false
+  xy: 227, 161
+  size: 109, 93
+  orig: 109, 93
+  offset: 0, 0
+  index: -1
+Dada/Dada_hip
+  rotate: false
+  xy: 112, 24
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Dada/Dada_leg_R
+  rotate: false
+  xy: 318, 127
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Dada/Dada_leg_l
+  rotate: false
+  xy: 349, 130
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Dada/Dada_mouse01
+  rotate: false
+  xy: 32, 14
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Dada/Dada_mouse02
+  rotate: false
+  xy: 174, 39
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Dada/Dada_mouse03
+  rotate: true
+  xy: 2, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+Dada/Dada_tears
+  rotate: false
+  xy: 491, 195
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1

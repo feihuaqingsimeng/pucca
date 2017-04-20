@@ -1,0 +1,181 @@
+
+Garu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Garu/Garu_arm_L
+  rotate: false
+  xy: 460, 132
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Garu/Garu_arm_L_03
+  rotate: false
+  xy: 403, 70
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+Garu/Garu_arm_R
+  rotate: false
+  xy: 461, 193
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+Garu/Garu_arm_R_03
+  rotate: false
+  xy: 260, 16
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Garu/Garu_body
+  rotate: false
+  xy: 274, 72
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Garu/Garu_body_02
+  rotate: false
+  xy: 339, 76
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye01
+  rotate: false
+  xy: 364, 123
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye01_02
+  rotate: false
+  xy: 184, 127
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye01_03
+  rotate: false
+  xy: 274, 128
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye01_04
+  rotate: false
+  xy: 172, 87
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye02
+  rotate: false
+  xy: 380, 163
+  size: 78, 38
+  orig: 78, 38
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye02_02
+  rotate: false
+  xy: 172, 46
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye03
+  rotate: false
+  xy: 380, 203
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+Garu/Garu_eye04
+  rotate: false
+  xy: 172, 5
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Garu/Garu_head
+  rotate: false
+  xy: 2, 32
+  size: 168, 110
+  orig: 168, 110
+  offset: 0, 0
+  index: -1
+Garu/Garu_head_02
+  rotate: false
+  xy: 2, 144
+  size: 180, 108
+  orig: 180, 108
+  offset: 0, 0
+  index: -1
+Garu/Garu_head_blue
+  rotate: false
+  xy: 184, 169
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+Garu/Garu_head_red
+  rotate: false
+  xy: 282, 169
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+Garu/Garu_hip
+  rotate: false
+  xy: 73, 7
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Garu/Garu_leg_L
+  rotate: false
+  xy: 462, 97
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Garu/Garu_leg_R
+  rotate: true
+  xy: 462, 66
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Garu/Garu_mouse01
+  rotate: false
+  xy: 2, 2
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+Garu/Garu_mouse02
+  rotate: false
+  xy: 139, 14
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Garu/Garu_mouse03
+  rotate: false
+  xy: 446, 135
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Garu/Garu_mouse04
+  rotate: false
+  xy: 2, 10
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1

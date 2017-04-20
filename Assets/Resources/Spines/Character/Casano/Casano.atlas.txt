@@ -1,0 +1,181 @@
+
+Casano.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Casano/Casano_acc
+  rotate: false
+  xy: 179, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Casano/Casano_arm_L
+  rotate: false
+  xy: 189, 98
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Casano/Casano_arm_L_02
+  rotate: false
+  xy: 310, 98
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Casano/Casano_arm_R
+  rotate: false
+  xy: 357, 101
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+Casano/Casano_arm_R_02
+  rotate: false
+  xy: 407, 106
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Casano/Casano_body
+  rotate: false
+  xy: 135, 90
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye01
+  rotate: false
+  xy: 236, 94
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye01_02
+  rotate: false
+  xy: 334, 156
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye02
+  rotate: true
+  xy: 107, 69
+  size: 73, 26
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye02-02
+  rotate: false
+  xy: 415, 156
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye03
+  rotate: false
+  xy: 236, 121
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye04
+  rotate: true
+  xy: 462, 84
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+Casano/Casano_eye05
+  rotate: false
+  xy: 135, 63
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Casano/Casano_hair
+  rotate: false
+  xy: 2, 144
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+Casano/Casano_hair_02
+  rotate: true
+  xy: 2, 17
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+Casano/Casano_head
+  rotate: false
+  xy: 128, 156
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+Casano/Casano_head_02
+  rotate: false
+  xy: 233, 157
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Casano/Casano_head_blue
+  rotate: false
+  xy: 334, 182
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+Casano/Casano_head_red
+  rotate: false
+  xy: 423, 182
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+Casano/Casano_leg_L
+  rotate: false
+  xy: 179, 22
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Casano/Casano_leg_R
+  rotate: true
+  xy: 310, 69
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Casano/Casano_mouse01
+  rotate: true
+  xy: 107, 25
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+Casano/Casano_mouse01_02
+  rotate: false
+  xy: 407, 83
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+Casano/Casano_mouse02
+  rotate: false
+  xy: 135, 2
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+Casano/Casano_mouse03
+  rotate: false
+  xy: 135, 30
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1

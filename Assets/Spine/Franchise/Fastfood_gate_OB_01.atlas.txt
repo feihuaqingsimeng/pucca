@@ -1,0 +1,41 @@
+
+Fastfood_gate_OB_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fastfood/Fastfood_gate_OB_01
+  rotate: true
+  xy: 2, 234
+  size: 234, 566
+  orig: 234, 566
+  offset: 0, 0
+  index: -1
+Fastfood/Fastfood_gate_OB_01_glow_01
+  rotate: false
+  xy: 2, 2
+  size: 206, 230
+  orig: 206, 230
+  offset: 0, 0
+  index: -1
+Fastfood/Fastfood_gate_OB_01_glow_02
+  rotate: false
+  xy: 570, 238
+  size: 206, 230
+  orig: 206, 230
+  offset: 0, 0
+  index: -1
+Fastfood/Fastfood_gate_OB_02
+  rotate: false
+  xy: 778, 325
+  size: 153, 143
+  orig: 153, 143
+  offset: 0, 0
+  index: -1
+Fastfood/Fastfood_gate_OB_03
+  rotate: false
+  xy: 210, 40
+  size: 114, 192
+  orig: 114, 192
+  offset: 0, 0
+  index: -1

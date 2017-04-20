@@ -1,0 +1,27 @@
+
+StageIcon_10404.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stage_76_01
+  rotate: false
+  xy: 300, 103
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+Stage_76_02
+  rotate: false
+  xy: 2, 2
+  size: 199, 215
+  orig: 199, 215
+  offset: 0, 0
+  index: -1
+Stage_76_03
+  rotate: false
+  xy: 203, 76
+  size: 95, 141
+  orig: 95, 141
+  offset: 0, 0
+  index: -1

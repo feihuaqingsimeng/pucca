@@ -1,0 +1,132 @@
+
+Mupi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mupi/mupi_acc_01
+  rotate: false
+  xy: 228, 110
+  size: 95, 30
+  orig: 95, 30
+  offset: 0, 0
+  index: -1
+Mupi/mupi_acc_02
+  rotate: false
+  xy: 245, 33
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Mupi/mupi_arm_L
+  rotate: false
+  xy: 130, 9
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Mupi/mupi_arm_R
+  rotate: false
+  xy: 228, 68
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Mupi/mupi_body
+  rotate: true
+  xy: 146, 67
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Mupi/mupi_eyebrow_01
+  rotate: true
+  xy: 495, 182
+  size: 53, 15
+  orig: 53, 15
+  offset: 0, 0
+  index: -1
+Mupi/mupi_eyebrow_02
+  rotate: true
+  xy: 479, 176
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+Mupi/mupi_head
+  rotate: false
+  xy: 146, 142
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+Mupi/mupi_head_blue
+  rotate: false
+  xy: 248, 142
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+Mupi/mupi_head_red
+  rotate: false
+  xy: 346, 148
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+Mupi/mupi_hip
+  rotate: true
+  xy: 443, 167
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+Mupi/mupi_jaket_back
+  rotate: false
+  xy: 2, 8
+  size: 126, 60
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+Mupi/mupi_jaket_front
+  rotate: false
+  xy: 2, 70
+  size: 142, 165
+  orig: 142, 165
+  offset: 0, 0
+  index: -1
+Mupi/mupi_leg_L
+  rotate: false
+  xy: 176, 5
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+Mupi/mupi_leg_R
+  rotate: false
+  xy: 211, 2
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+Mupi/mupi_mouse_01
+  rotate: true
+  xy: 443, 149
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Mupi/mupi_mouse_02
+  rotate: false
+  xy: 291, 99
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Mupi/mupi_mouse_03
+  rotate: true
+  xy: 325, 113
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1

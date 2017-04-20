@@ -1,0 +1,244 @@
+
+Alligator.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alligator/alligator_ac_01
+  rotate: false
+  xy: 356, 71
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Alligator/alligator_ac_02
+  rotate: false
+  xy: 2, 108
+  size: 152, 146
+  orig: 152, 146
+  offset: 0, 0
+  index: -1
+Alligator/alligator_ac_03
+  rotate: false
+  xy: 244, 18
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Alligator/alligator_ac_04
+  rotate: false
+  xy: 473, 195
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Alligator/alligator_ac_05
+  rotate: true
+  xy: 433, 134
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Alligator/alligator_arm_L
+  rotate: false
+  xy: 302, 27
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+Alligator/alligator_body
+  rotate: false
+  xy: 312, 184
+  size: 159, 70
+  orig: 159, 70
+  offset: 0, 0
+  index: -1
+Alligator/alligator_eye_01
+  rotate: false
+  xy: 479, 174
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Alligator/alligator_eye_02
+  rotate: true
+  xy: 413, 16
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+Alligator/alligator_eye_03
+  rotate: true
+  xy: 473, 91
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Alligator/alligator_eye_04
+  rotate: false
+  xy: 404, 52
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Alligator/alligator_eye_05
+  rotate: false
+  xy: 436, 58
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_arm_L
+  rotate: true
+  xy: 436, 80
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_arm_R
+  rotate: false
+  xy: 363, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_body
+  rotate: false
+  xy: 436, 100
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_eye2_R
+  rotate: false
+  xy: 473, 65
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_eye_03
+  rotate: false
+  xy: 462, 34
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_eye_L
+  rotate: false
+  xy: 302, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_eye_R
+  rotate: false
+  xy: 134, 87
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_head
+  rotate: false
+  xy: 356, 118
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_head_blue
+  rotate: false
+  xy: 346, 31
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_head_red
+  rotate: true
+  xy: 479, 126
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_leg_L
+  rotate: true
+  xy: 434, 34
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_leg_R
+  rotate: true
+  xy: 334, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_mouse_03
+  rotate: false
+  xy: 431, 9
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_mouse_A
+  rotate: false
+  xy: 346, 52
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_mouse_B
+  rotate: true
+  xy: 394, 3
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+Alligator/alligator_goldman_weapon1
+  rotate: true
+  xy: 473, 232
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Alligator/alligator_head_01
+  rotate: true
+  xy: 284, 83
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+Alligator/alligator_head_02
+  rotate: false
+  xy: 134, 14
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+Alligator/alligator_head_03
+  rotate: false
+  xy: 156, 167
+  size: 154, 87
+  orig: 154, 87
+  offset: 0, 0
+  index: -1
+Alligator/alligator_head_blue
+  rotate: false
+  xy: 2, 4
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+Alligator/alligator_head_red
+  rotate: false
+  xy: 156, 80
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+Alligator/alligator_leg_L
+  rotate: false
+  xy: 404, 75
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1

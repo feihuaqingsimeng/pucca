@@ -1,0 +1,104 @@
+
+Decay.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Decay/decay_arm_L
+  rotate: true
+  xy: 2, 2
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+Decay/decay_arm_R
+  rotate: true
+  xy: 141, 94
+  size: 56, 127
+  orig: 56, 127
+  offset: 0, 0
+  index: -1
+Decay/decay_body
+  rotate: false
+  xy: 2, 68
+  size: 137, 173
+  orig: 137, 173
+  offset: 0, 0
+  index: -1
+Decay/decay_eye_01
+  rotate: false
+  xy: 363, 206
+  size: 93, 35
+  orig: 93, 35
+  offset: 0, 0
+  index: -1
+Decay/decay_eye_02
+  rotate: false
+  xy: 141, 63
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Decay/decay_eye_03
+  rotate: false
+  xy: 270, 88
+  size: 70, 26
+  orig: 70, 26
+  offset: 0, 0
+  index: -1
+Decay/decay_eye_04
+  rotate: false
+  xy: 270, 116
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+Decay/decay_head_blue
+  rotate: false
+  xy: 141, 152
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+Decay/decay_head_red
+  rotate: false
+  xy: 252, 152
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+Decay/decay_leg_L
+  rotate: false
+  xy: 458, 210
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Decay/decay_leg_R
+  rotate: false
+  xy: 213, 62
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Decay/decay_mouse_01
+  rotate: false
+  xy: 363, 174
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+Decay/decay_mouse_02
+  rotate: false
+  xy: 363, 158
+  size: 72, 14
+  orig: 72, 14
+  offset: 0, 0
+  index: -1
+Decay/decay_mouse_03
+  rotate: false
+  xy: 133, 47
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1

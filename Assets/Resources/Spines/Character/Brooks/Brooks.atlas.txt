@@ -1,0 +1,167 @@
+
+Brooks.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brooks/Brooks_arm_L
+  rotate: true
+  xy: 330, 146
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_arm_L_02
+  rotate: false
+  xy: 182, 65
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_arm_R
+  rotate: false
+  xy: 130, 12
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_arm_R_02
+  rotate: false
+  xy: 130, 67
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_body
+  rotate: false
+  xy: 255, 194
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_eye01
+  rotate: false
+  xy: 141, 123
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_eye01_02
+  rotate: false
+  xy: 429, 236
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_eye03
+  rotate: true
+  xy: 388, 163
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_eye04
+  rotate: false
+  xy: 255, 148
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_head
+  rotate: false
+  xy: 2, 128
+  size: 137, 126
+  orig: 137, 126
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_head_02
+  rotate: true
+  xy: 2, 11
+  size: 115, 126
+  orig: 115, 126
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_head_blue
+  rotate: false
+  xy: 141, 199
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_head_red
+  rotate: false
+  xy: 141, 142
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_hip
+  rotate: false
+  xy: 325, 194
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_leg_L
+  rotate: false
+  xy: 181, 25
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_leg_L_02
+  rotate: false
+  xy: 230, 93
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_leg_R
+  rotate: false
+  xy: 215, 26
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_leg_R_02
+  rotate: false
+  xy: 388, 125
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_mouse01
+  rotate: false
+  xy: 181, 14
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_mouse01_02
+  rotate: false
+  xy: 2, 2
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_mouse02
+  rotate: false
+  xy: 230, 72
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Brooks/Brooks_mouse03
+  rotate: true
+  xy: 214, 127
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+Brooks/brooks_weapon
+  rotate: true
+  xy: 325, 232
+  size: 22, 102
+  orig: 22, 102
+  offset: 0, 0
+  index: -1

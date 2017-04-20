@@ -1,0 +1,41 @@
+
+Vendor.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_img_inn_vendor_arm
+  rotate: true
+  xy: 2, 2
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+ui_img_inn_vendor_body
+  rotate: false
+  xy: 419, 215
+  size: 273, 283
+  orig: 273, 283
+  offset: 0, 0
+  index: -1
+ui_img_inn_vendor_head
+  rotate: false
+  xy: 2, 149
+  size: 415, 349
+  orig: 415, 349
+  offset: 0, 0
+  index: -1
+ui_img_inn_vendor_mouth0
+  rotate: false
+  xy: 419, 194
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+ui_img_inn_vendor_mouth1
+  rotate: false
+  xy: 694, 487
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1

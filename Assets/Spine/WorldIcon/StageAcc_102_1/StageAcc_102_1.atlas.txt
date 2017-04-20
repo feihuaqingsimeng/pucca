@@ -1,0 +1,27 @@
+
+StageAcc_102_1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coast_land
+  rotate: false
+  xy: 2, 364
+  size: 920, 617
+  orig: 920, 617
+  offset: 0, 0
+  index: -1
+coast_sea
+  rotate: false
+  xy: 2, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+coast_sea_01
+  rotate: false
+  xy: 924, 621
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1

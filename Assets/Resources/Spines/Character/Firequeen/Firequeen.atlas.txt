@@ -1,0 +1,181 @@
+
+Firequeen.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Firequeen/firequeen_arm_L_01
+  rotate: false
+  xy: 278, 133
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_arm_R_01
+  rotate: false
+  xy: 372, 175
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_body
+  rotate: false
+  xy: 234, 168
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_eye_01
+  rotate: true
+  xy: 415, 155
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_eye_02
+  rotate: false
+  xy: 435, 168
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_eye_03
+  rotate: false
+  xy: 435, 148
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_eye_04
+  rotate: false
+  xy: 435, 192
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_eye_05
+  rotate: true
+  xy: 170, 84
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_hair_01
+  rotate: false
+  xy: 2, 68
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_hair_02
+  rotate: false
+  xy: 2, 138
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_hair_03
+  rotate: false
+  xy: 323, 169
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_hair_04
+  rotate: false
+  xy: 234, 129
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_hair_05
+  rotate: true
+  xy: 97, 13
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_hair_06
+  rotate: false
+  xy: 193, 131
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_head
+  rotate: false
+  xy: 372, 200
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_head_blue
+  rotate: false
+  xy: 435, 209
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_head_red
+  rotate: false
+  xy: 132, 129
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_mouse_01
+  rotate: false
+  xy: 481, 194
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_mouse_02
+  rotate: false
+  xy: 97, 5
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_mouse_03
+  rotate: true
+  xy: 122, 129
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_mouse_04
+  rotate: true
+  xy: 496, 231
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_mouse_05
+  rotate: false
+  xy: 496, 216
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_skirt_01
+  rotate: false
+  xy: 2, 2
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_skirt_02
+  rotate: false
+  xy: 132, 173
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Firequeen/firequeen_weapon
+  rotate: false
+  xy: 122, 74
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1

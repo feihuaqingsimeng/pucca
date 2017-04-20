@@ -1,0 +1,13 @@
+
+Japan_roof_OB_01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Japan/Japan_roof_OB_01
+  rotate: false
+  xy: 2, 2
+  size: 130, 150
+  orig: 130, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+StageIcon_10305.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage_51_01
+  rotate: false
+  xy: 2, 96
+  size: 172, 152
+  orig: 172, 152
+  offset: 0, 0
+  index: -1
+stage_51_02
+  rotate: false
+  xy: 2, 2
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1

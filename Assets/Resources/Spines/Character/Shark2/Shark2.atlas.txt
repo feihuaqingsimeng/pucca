@@ -1,0 +1,76 @@
+
+Shark2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shark2/shark2_arm_l
+  rotate: false
+  xy: 359, 205
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+Shark2/shark2_arm_r
+  rotate: false
+  xy: 412, 205
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+Shark2/shark2_body
+  rotate: false
+  xy: 2, 70
+  size: 229, 184
+  orig: 229, 184
+  offset: 0, 0
+  index: -1
+Shark2/shark2_eye0
+  rotate: false
+  xy: 73, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Shark2/shark2_eye1
+  rotate: true
+  xy: 327, 124
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Shark2/shark2_head_red
+  rotate: false
+  xy: 233, 159
+  size: 124, 95
+  orig: 124, 95
+  offset: 0, 0
+  index: -1
+Shark2/shark2_leg_l
+  rotate: false
+  xy: 359, 170
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Shark2/shark2_leg_r
+  rotate: false
+  xy: 73, 33
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Shark2/shark2_mouth0
+  rotate: false
+  xy: 233, 88
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+Shark2/shark2_mouth1
+  rotate: false
+  xy: 2, 20
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1

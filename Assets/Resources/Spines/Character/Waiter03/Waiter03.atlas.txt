@@ -1,0 +1,153 @@
+
+Waiter03.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiter03/Waiter03_arm_L
+  rotate: true
+  xy: 134, 45
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_arm_R
+  rotate: false
+  xy: 134, 94
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_body
+  rotate: false
+  xy: 341, 192
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_eye01
+  rotate: true
+  xy: 115, 63
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_eye01_02
+  rotate: false
+  xy: 198, 151
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_eye03
+  rotate: false
+  xy: 2, 4
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_eye04
+  rotate: false
+  xy: 121, 147
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_head
+  rotate: false
+  xy: 2, 143
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_head_02
+  rotate: false
+  xy: 2, 32
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_head_blue
+  rotate: false
+  xy: 121, 172
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_head_red
+  rotate: false
+  xy: 231, 172
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_hip
+  rotate: false
+  xy: 278, 144
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_leg_L
+  rotate: false
+  xy: 475, 218
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_leg_R
+  rotate: true
+  xy: 82, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_mouse01
+  rotate: false
+  xy: 474, 176
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_mouse01_02
+  rotate: false
+  xy: 475, 197
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_mouse02
+  rotate: false
+  xy: 405, 179
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_mouse03
+  rotate: true
+  xy: 400, 151
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_weapon_01
+  rotate: true
+  xy: 341, 153
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_weapon_02
+  rotate: false
+  xy: 446, 175
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Waiter03/Waiter03_weapon_L
+  rotate: false
+  xy: 405, 202
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+G_jr2_04.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_jr2_04/G_jr2_04_arm_L
+  rotate: false
+  xy: 451, 191
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_arm_L_02
+  rotate: false
+  xy: 252, 35
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_arm_R
+  rotate: false
+  xy: 308, 69
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_arm_R_02
+  rotate: true
+  xy: 188, 42
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_body
+  rotate: false
+  xy: 387, 186
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_eye01
+  rotate: false
+  xy: 94, 40
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_eye01_02
+  rotate: false
+  xy: 188, 94
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_eye03
+  rotate: false
+  xy: 2, 2
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_eye04
+  rotate: false
+  xy: 296, 128
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_head
+  rotate: false
+  xy: 150, 124
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_head_02
+  rotate: false
+  xy: 2, 124
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_head_blue
+  rotate: false
+  xy: 2, 47
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_head_red
+  rotate: false
+  xy: 296, 179
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_leg_L
+  rotate: false
+  xy: 394, 148
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_leg_L_02
+  rotate: false
+  xy: 79, 3
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_leg_R
+  rotate: false
+  xy: 111, 3
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_leg_R_02
+  rotate: false
+  xy: 429, 148
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_mouse01
+  rotate: true
+  xy: 371, 131
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_mouse01_02
+  rotate: false
+  xy: 308, 46
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_mouse02
+  rotate: false
+  xy: 464, 159
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_mouse03
+  rotate: false
+  xy: 276, 94
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+G_jr2_04/G_jr2_04_weapon
+  rotate: false
+  xy: 94, 72
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1

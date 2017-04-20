@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_Cloud_001
+  rotate: false
+  xy: 2, 2
+  size: 250, 205
+  orig: 250, 205
+  offset: 0, 0
+  index: -1

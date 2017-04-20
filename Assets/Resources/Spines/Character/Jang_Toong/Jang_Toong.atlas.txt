@@ -1,0 +1,160 @@
+
+Jang_Toong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jang_Toong/Jang_Toong_arm_L
+  rotate: true
+  xy: 221, 57
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_arm_L_02
+  rotate: false
+  xy: 290, 44
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_arm_R
+  rotate: true
+  xy: 446, 121
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_arm_R_02
+  rotate: false
+  xy: 357, 113
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_body
+  rotate: false
+  xy: 358, 179
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_eye01
+  rotate: true
+  xy: 322, 111
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_eye01_02
+  rotate: false
+  xy: 2, 14
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_eye03
+  rotate: false
+  xy: 140, 59
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_eye04
+  rotate: true
+  xy: 446, 180
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_head
+  rotate: false
+  xy: 2, 49
+  size: 136, 100
+  orig: 136, 100
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_head_02
+  rotate: false
+  xy: 2, 151
+  size: 156, 102
+  orig: 156, 102
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_head_blue
+  rotate: false
+  xy: 160, 184
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_head_red
+  rotate: false
+  xy: 259, 184
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_hip
+  rotate: false
+  xy: 84, 11
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_leg_L
+  rotate: false
+  xy: 160, 14
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_leg_R
+  rotate: true
+  xy: 201, 21
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_mouse01
+  rotate: false
+  xy: 2, 2
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_mouse01_02
+  rotate: false
+  xy: 140, 49
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_mouse02
+  rotate: true
+  xy: 140, 127
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_mouse03
+  rotate: false
+  xy: 416, 144
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_weapon_L
+  rotate: false
+  xy: 160, 110
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+Jang_Toong/Jang_Toong_weapon_R
+  rotate: false
+  xy: 242, 110
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1

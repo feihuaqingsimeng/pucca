@@ -1,0 +1,48 @@
+
+StageAcc_106_3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage06_bg_c_01
+  rotate: false
+  xy: 2, 2
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+stage06_bg_c_02
+  rotate: false
+  xy: 158, 56
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+stage06_bg_c_03
+  rotate: false
+  xy: 92, 51
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+stage06_bg_c_04
+  rotate: false
+  xy: 92, 14
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+stage06_bg_c_05
+  rotate: false
+  xy: 128, 32
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+stage06_bg_c_06
+  rotate: false
+  xy: 224, 96
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1

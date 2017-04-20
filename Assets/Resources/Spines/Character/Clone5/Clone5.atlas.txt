@@ -1,0 +1,139 @@
+
+Clone5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clone5/Clone5_arm_L
+  rotate: false
+  xy: 248, 24
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_arm_L_02
+  rotate: false
+  xy: 248, 86
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_arm_R
+  rotate: false
+  xy: 294, 25
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_arm_R_02
+  rotate: false
+  xy: 303, 80
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_body
+  rotate: false
+  xy: 449, 194
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_body_02
+  rotate: false
+  xy: 449, 132
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_eye01
+  rotate: true
+  xy: 185, 2
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_eye01_02
+  rotate: false
+  xy: 119, 120
+  size: 126, 61
+  orig: 126, 61
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_eye02
+  rotate: true
+  xy: 119, 2
+  size: 116, 64
+  orig: 116, 64
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_eye03
+  rotate: false
+  xy: 119, 183
+  size: 130, 71
+  orig: 130, 71
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_eye04
+  rotate: false
+  xy: 251, 182
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_head
+  rotate: false
+  xy: 2, 151
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_head_02
+  rotate: false
+  xy: 2, 46
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_head_blue
+  rotate: false
+  xy: 2, 6
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_head_red
+  rotate: false
+  xy: 247, 142
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_leg_L
+  rotate: false
+  xy: 341, 147
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_leg_R
+  rotate: false
+  xy: 373, 154
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_mouse_04
+  rotate: false
+  xy: 96, 36
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+Clone5/Clone5_weapon
+  rotate: false
+  xy: 366, 189
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1

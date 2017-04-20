@@ -1,0 +1,13 @@
+
+StageIcon_10203.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coast_stageicon_01
+  rotate: false
+  xy: 2, 2
+  size: 142, 160
+  orig: 142, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+StageAcc_105_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stagemap_acc_01
+  rotate: true
+  xy: 2, 2
+  size: 193, 152
+  orig: 193, 152
+  offset: 0, 0
+  index: -1
+stagemap_acc_02
+  rotate: false
+  xy: 289, 75
+  size: 197, 120
+  orig: 197, 120
+  offset: 0, 0
+  index: -1
+stagemap_acc_03
+  rotate: true
+  xy: 156, 2
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1

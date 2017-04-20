@@ -1,0 +1,20 @@
+
+StageAcc_103_5.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+village near port_cat_acc_02
+  rotate: false
+  xy: 2, 18
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+village near port_cat_acc_05
+  rotate: false
+  xy: 2, 2
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1

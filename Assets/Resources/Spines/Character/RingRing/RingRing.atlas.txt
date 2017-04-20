@@ -1,0 +1,174 @@
+
+RingRing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ringring/Ringring_arm_L
+  rotate: false
+  xy: 237, 74
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_arm_L_02
+  rotate: false
+  xy: 403, 172
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_arm_R
+  rotate: false
+  xy: 283, 75
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_arm_R_02
+  rotate: true
+  xy: 371, 132
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_body
+  rotate: false
+  xy: 436, 191
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye01
+  rotate: false
+  xy: 82, 4
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye01_02
+  rotate: false
+  xy: 237, 131
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye01_03
+  rotate: false
+  xy: 340, 204
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye02
+  rotate: false
+  xy: 105, 51
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye02_02
+  rotate: false
+  xy: 108, 99
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye03
+  rotate: false
+  xy: 2, 2
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_eye04
+  rotate: true
+  xy: 202, 70
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_hand_L_02
+  rotate: false
+  xy: 332, 132
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_hand_R_02
+  rotate: true
+  xy: 436, 155
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_head
+  rotate: false
+  xy: 2, 129
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_head02
+  rotate: true
+  xy: 108, 152
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_head_blue
+  rotate: false
+  xy: 2, 56
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_head_red
+  rotate: false
+  xy: 237, 183
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_hip
+  rotate: false
+  xy: 340, 169
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_leg_L
+  rotate: false
+  xy: 167, 8
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_leg_R
+  rotate: false
+  xy: 405, 129
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_mouse01
+  rotate: true
+  xy: 497, 170
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_mouse02
+  rotate: false
+  xy: 473, 163
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Ringring/Ringring_mouse03
+  rotate: true
+  xy: 435, 138
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1

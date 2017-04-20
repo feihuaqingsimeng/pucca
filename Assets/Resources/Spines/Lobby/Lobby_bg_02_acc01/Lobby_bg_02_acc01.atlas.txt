@@ -1,0 +1,13 @@
+
+Lobby_bg_02_acc01.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lobby_bg_02/bg_02_acc
+  rotate: false
+  xy: 2, 2
+  size: 123, 146
+  orig: 123, 146
+  offset: 0, 0
+  index: -1

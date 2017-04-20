@@ -1,0 +1,153 @@
+
+Abyo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abyo/Abyo_arm_L
+  rotate: false
+  xy: 451, 194
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_arm_L_02
+  rotate: false
+  xy: 331, 197
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_arm_R
+  rotate: false
+  xy: 391, 197
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_arm_R_02
+  rotate: false
+  xy: 197, 30
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_body
+  rotate: false
+  xy: 130, 26
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_eye01
+  rotate: false
+  xy: 331, 164
+  size: 81, 31
+  orig: 81, 31
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_eye01_02
+  rotate: false
+  xy: 227, 145
+  size: 93, 30
+  orig: 93, 30
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_eye02
+  rotate: false
+  xy: 322, 132
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_eye02_02
+  rotate: false
+  xy: 2, 2
+  size: 93, 28
+  orig: 93, 28
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_eye03
+  rotate: false
+  xy: 130, 92
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_eye04
+  rotate: false
+  xy: 133, 143
+  size: 92, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_head
+  rotate: false
+  xy: 2, 144
+  size: 129, 110
+  orig: 129, 110
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_head_02
+  rotate: false
+  xy: 2, 32
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_head_blue
+  rotate: false
+  xy: 133, 177
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_head_red
+  rotate: false
+  xy: 232, 177
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_leg_L
+  rotate: true
+  xy: 414, 162
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_leg_R
+  rotate: true
+  xy: 451, 161
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_mouse01
+  rotate: false
+  xy: 322, 167
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_mouse02
+  rotate: false
+  xy: 487, 171
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_mouse03
+  rotate: false
+  xy: 97, 11
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+Abyo/Abyo_weapon
+  rotate: true
+  xy: 133, 235
+  size: 19, 188
+  orig: 19, 188
+  offset: 0, 0
+  index: -1

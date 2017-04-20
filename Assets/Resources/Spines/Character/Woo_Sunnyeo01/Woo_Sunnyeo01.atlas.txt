@@ -1,0 +1,216 @@
+
+Woo_Sunnyeo01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Woo_Sunnyeo01/Woo_Sunnyeo01_acc
+  rotate: false
+  xy: 89, 135
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_arm_L
+  rotate: true
+  xy: 215, 322
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_arm_L_02
+  rotate: false
+  xy: 371, 308
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_arm_R
+  rotate: false
+  xy: 425, 318
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_arm_R_02
+  rotate: true
+  xy: 80, 201
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_body
+  rotate: false
+  xy: 2, 84
+  size: 85, 105
+  orig: 85, 105
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_body_back
+  rotate: false
+  xy: 108, 402
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_eye01
+  rotate: false
+  xy: 283, 248
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_eye01_02
+  rotate: false
+  xy: 283, 277
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_eye02
+  rotate: true
+  xy: 480, 441
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_eye02_02
+  rotate: false
+  xy: 158, 208
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_eye03
+  rotate: true
+  xy: 247, 252
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_eye04
+  rotate: false
+  xy: 89, 107
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair
+  rotate: false
+  xy: 372, 432
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair_02
+  rotate: false
+  xy: 108, 322
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair_acc
+  rotate: false
+  xy: 244, 433
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair_acc02
+  rotate: false
+  xy: 371, 387
+  size: 124, 43
+  orig: 124, 43
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair_acc02_02
+  rotate: false
+  xy: 244, 389
+  size: 125, 42
+  orig: 125, 42
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair_acc_02
+  rotate: true
+  xy: 2, 191
+  size: 132, 76
+  orig: 132, 76
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_hair_back
+  rotate: false
+  xy: 2, 325
+  size: 104, 185
+  orig: 104, 185
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_head
+  rotate: true
+  xy: 2, 2
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_head_02
+  rotate: false
+  xy: 80, 238
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_head_blue
+  rotate: true
+  xy: 164, 238
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_head_red
+  rotate: false
+  xy: 287, 306
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_leg_L
+  rotate: false
+  xy: 119, 82
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_leg_R
+  rotate: false
+  xy: 85, 59
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_mouse01
+  rotate: false
+  xy: 85, 8
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_mouse01_02
+  rotate: true
+  xy: 497, 421
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_mouse02
+  rotate: true
+  xy: 85, 29
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Woo_Sunnyeo01/Woo_Sunnyeo01_mouse03
+  rotate: false
+  xy: 89, 83
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

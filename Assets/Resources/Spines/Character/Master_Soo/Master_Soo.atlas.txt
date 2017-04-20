@@ -1,0 +1,153 @@
+
+Master_Soo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Master_Soo/Master_Soo_acc
+  rotate: true
+  xy: 178, 189
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_acc_02
+  rotate: false
+  xy: 2, 29
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_arm_L
+  rotate: false
+  xy: 465, 456
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_arm_L_02
+  rotate: true
+  xy: 394, 391
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_arm_R
+  rotate: false
+  xy: 178, 294
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_arm_R_02
+  rotate: false
+  xy: 178, 237
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_body
+  rotate: false
+  xy: 394, 440
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_eye01
+  rotate: true
+  xy: 85, 29
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_eye01_02
+  rotate: false
+  xy: 283, 384
+  size: 76, 17
+  orig: 76, 17
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_eye03
+  rotate: false
+  xy: 176, 351
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_eye04
+  rotate: false
+  xy: 2, 3
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_head
+  rotate: false
+  xy: 176, 382
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_head_02
+  rotate: false
+  xy: 2, 208
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_head_blue
+  rotate: false
+  xy: 2, 99
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_head_red
+  rotate: false
+  xy: 283, 403
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_mouse01
+  rotate: true
+  xy: 68, 2
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_mouse02
+  rotate: false
+  xy: 245, 362
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_mouse03
+  rotate: false
+  xy: 82, 6
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_ring
+  rotate: false
+  xy: 2, 338
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_skirt
+  rotate: true
+  xy: 113, 115
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+Master_Soo/Master_Soo_weapon
+  rotate: false
+  xy: 122, 198
+  size: 54, 138
+  orig: 54, 138
+  offset: 0, 0
+  index: -1

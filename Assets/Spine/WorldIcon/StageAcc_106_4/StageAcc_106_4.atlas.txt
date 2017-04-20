@@ -1,0 +1,13 @@
+
+StageAcc_106_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage06_bg02
+  rotate: false
+  xy: 2, 2
+  size: 900, 450
+  orig: 900, 450
+  offset: 0, 0
+  index: -1

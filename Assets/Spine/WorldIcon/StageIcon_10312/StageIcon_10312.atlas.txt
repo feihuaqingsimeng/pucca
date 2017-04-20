@@ -1,0 +1,41 @@
+
+StageIcon_10312.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage_button
+  rotate: false
+  xy: 176, 156
+  size: 143, 88
+  orig: 143, 88
+  offset: 0, 0
+  index: -1
+ui_icon_stage3_elite_03_01
+  rotate: false
+  xy: 2, 113
+  size: 172, 131
+  orig: 172, 131
+  offset: 0, 0
+  index: -1
+ui_icon_stage3_elite_03_02
+  rotate: false
+  xy: 2, 51
+  size: 172, 60
+  orig: 172, 60
+  offset: 0, 0
+  index: -1
+ui_icon_stage3_elite_03_03
+  rotate: false
+  xy: 176, 71
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+ui_icon_stage3_elite_03_04
+  rotate: false
+  xy: 2, 2
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1

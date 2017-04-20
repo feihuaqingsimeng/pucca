@@ -1,0 +1,27 @@
+
+StageIcon_10310.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stage_53_02
+  rotate: false
+  xy: 163, 121
+  size: 135, 99
+  orig: 135, 99
+  offset: 0, 0
+  index: -1
+stage_53_03
+  rotate: false
+  xy: 163, 64
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+stage_53_bottom
+  rotate: false
+  xy: 2, 2
+  size: 159, 218
+  orig: 159, 218
+  offset: 0, 0
+  index: -1

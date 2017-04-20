@@ -1,0 +1,167 @@
+
+Ho.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ho/Ho_arm_L
+  rotate: false
+  xy: 323, 61
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Ho/Ho_arm_L_02
+  rotate: false
+  xy: 263, 61
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Ho/Ho_arm_R
+  rotate: false
+  xy: 327, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Ho/Ho_arm_R_02
+  rotate: true
+  xy: 415, 108
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Ho/Ho_body
+  rotate: false
+  xy: 402, 185
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+Ho/Ho_eye01
+  rotate: false
+  xy: 402, 162
+  size: 85, 21
+  orig: 85, 21
+  offset: 0, 0
+  index: -1
+Ho/Ho_eye01_02
+  rotate: false
+  xy: 2, 9
+  size: 93, 21
+  orig: 93, 21
+  offset: 0, 0
+  index: -1
+Ho/Ho_eye02
+  rotate: true
+  xy: 241, 37
+  size: 85, 20
+  orig: 85, 20
+  offset: 0, 0
+  index: -1
+Ho/Ho_eye02_02
+  rotate: false
+  xy: 141, 102
+  size: 92, 20
+  orig: 92, 20
+  offset: 0, 0
+  index: -1
+Ho/Ho_eye03
+  rotate: true
+  xy: 202, 14
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+Ho/Ho_eye04
+  rotate: false
+  xy: 278, 121
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+Ho/Ho_head
+  rotate: true
+  xy: 141, 124
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: -1
+Ho/Ho_head_02
+  rotate: false
+  xy: 2, 116
+  size: 137, 134
+  orig: 137, 134
+  offset: 0, 0
+  index: -1
+Ho/Ho_head_blue
+  rotate: false
+  xy: 2, 32
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+Ho/Ho_head_red
+  rotate: false
+  xy: 278, 168
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+Ho/Ho_leg_L
+  rotate: true
+  xy: 372, 125
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Ho/Ho_leg_R
+  rotate: false
+  xy: 377, 83
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Ho/Ho_mouse01
+  rotate: false
+  xy: 126, 18
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+Ho/Ho_mouse01_02
+  rotate: false
+  xy: 241, 12
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+Ho/Ho_mouse02
+  rotate: true
+  xy: 476, 188
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Ho/Ho_mouse03
+  rotate: false
+  xy: 263, 33
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+Ho/Ho_tear
+  rotate: false
+  xy: 97, 17
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Ho/Ho_weapon
+  rotate: true
+  xy: 126, 39
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1

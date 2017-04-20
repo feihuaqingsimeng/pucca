@@ -1,0 +1,146 @@
+
+Waiter01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Waiter01/Waiter01_arm_L
+  rotate: true
+  xy: 405, 140
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_arm_R
+  rotate: false
+  xy: 281, 119
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_body
+  rotate: false
+  xy: 341, 130
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_eye01
+  rotate: false
+  xy: 201, 154
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_eye01_02
+  rotate: false
+  xy: 121, 152
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_eye03
+  rotate: false
+  xy: 2, 4
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_eye04
+  rotate: true
+  xy: 487, 178
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_head
+  rotate: false
+  xy: 2, 144
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_head_02
+  rotate: false
+  xy: 2, 32
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_head_blue
+  rotate: false
+  xy: 121, 173
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_head_red
+  rotate: false
+  xy: 231, 173
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_hip
+  rotate: false
+  xy: 405, 112
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_leg_L
+  rotate: false
+  xy: 116, 93
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_leg_R
+  rotate: true
+  xy: 82, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_mouse01
+  rotate: false
+  xy: 162, 131
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_mouse01_02
+  rotate: true
+  xy: 466, 156
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_mouse02
+  rotate: false
+  xy: 121, 129
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_mouse03
+  rotate: false
+  xy: 116, 59
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_weapon_L
+  rotate: false
+  xy: 416, 190
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+Waiter01/Waiter01_weapon_R
+  rotate: false
+  xy: 341, 192
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1

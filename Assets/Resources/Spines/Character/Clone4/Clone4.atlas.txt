@@ -1,0 +1,132 @@
+
+Clone4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clone4/Clone4_acc
+  rotate: false
+  xy: 2, 132
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_arm_L
+  rotate: false
+  xy: 100, 52
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_arm_L_02
+  rotate: false
+  xy: 159, 52
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_arm_R
+  rotate: false
+  xy: 218, 54
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_arm_R_02
+  rotate: false
+  xy: 278, 75
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_body
+  rotate: false
+  xy: 215, 166
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_eye01
+  rotate: false
+  xy: 108, 125
+  size: 82, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_eye01_02
+  rotate: false
+  xy: 2, 2
+  size: 84, 19
+  orig: 84, 19
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_eye02
+  rotate: false
+  xy: 215, 146
+  size: 81, 18
+  orig: 81, 18
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_eye02_02
+  rotate: false
+  xy: 298, 146
+  size: 85, 17
+  orig: 85, 17
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_eye03
+  rotate: false
+  xy: 298, 201
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_eye04
+  rotate: false
+  xy: 192, 125
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_head
+  rotate: true
+  xy: 2, 23
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_head_02
+  rotate: false
+  xy: 108, 146
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_head_blue
+  rotate: false
+  xy: 398, 208
+  size: 87, 34
+  orig: 87, 34
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_head_red
+  rotate: false
+  xy: 298, 165
+  size: 87, 34
+  orig: 87, 34
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_leg_L
+  rotate: false
+  xy: 338, 102
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Clone4/Clone4_leg_R
+  rotate: true
+  xy: 100, 15
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1

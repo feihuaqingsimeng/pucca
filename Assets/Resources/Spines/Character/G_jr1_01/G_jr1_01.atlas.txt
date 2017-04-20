@@ -1,0 +1,160 @@
+
+G_jr1_01.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_jr1_01/G_jr1_01_acc
+  rotate: false
+  xy: 258, 188
+  size: 129, 66
+  orig: 129, 66
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_acc_02
+  rotate: false
+  xy: 128, 185
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_arm_L
+  rotate: false
+  xy: 369, 75
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_arm_L_02
+  rotate: false
+  xy: 332, 133
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_arm_R
+  rotate: true
+  xy: 56, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_arm_R_02
+  rotate: true
+  xy: 2, 2
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_body
+  rotate: false
+  xy: 269, 123
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_eye01
+  rotate: false
+  xy: 269, 87
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_eye01_02
+  rotate: false
+  xy: 109, 7
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_eye02
+  rotate: false
+  xy: 449, 134
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_eye02_02
+  rotate: true
+  xy: 334, 67
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_eye03
+  rotate: false
+  xy: 379, 130
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_eye04
+  rotate: true
+  xy: 415, 65
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_hair
+  rotate: false
+  xy: 2, 152
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_hair_02
+  rotate: false
+  xy: 2, 50
+  size: 123, 100
+  orig: 123, 100
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_head
+  rotate: false
+  xy: 389, 166
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_head_02
+  rotate: false
+  xy: 128, 95
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_head_blue
+  rotate: false
+  xy: 127, 44
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_head_red
+  rotate: true
+  xy: 218, 109
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_leg_L
+  rotate: false
+  xy: 449, 94
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_leg_R
+  rotate: true
+  xy: 449, 61
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+G_jr1_01/G_jr1_01_mouse02
+  rotate: false
+  xy: 483, 238
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

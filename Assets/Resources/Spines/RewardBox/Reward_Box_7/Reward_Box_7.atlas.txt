@@ -1,0 +1,27 @@
+
+Reward_Box_7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reward_Box_body7
+  rotate: true
+  xy: 305, 13
+  size: 224, 114
+  orig: 224, 114
+  offset: 0, 0
+  index: -1
+Reward_Box_cap7
+  rotate: true
+  xy: 154, 6
+  size: 231, 149
+  orig: 231, 149
+  offset: 0, 0
+  index: -1
+Reward_Box_open_cap7
+  rotate: true
+  xy: 2, 2
+  size: 235, 150
+  orig: 235, 150
+  offset: 0, 0
+  index: -1

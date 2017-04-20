@@ -1,0 +1,14 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+proj.AppId=90347981955
+and.BundleId=com.mseedgames.withpuccawars
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e90347981955%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.mseedgames.withpuccawars%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pucca_1%22%3eCgkIg5mjydACEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pucca_2%22%3eCgkIg5mjydACEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pucca_3%22%3eCgkIg5mjydACEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pucca_4%22%3eCgkIg5mjydACEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_pucca_5%22%3eCgkIg5mjydACEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_pucca_1%22%3eCgkIg5mjydACEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=90347981955-ruq28v8oe10rfsehbadgrb8ml26k08nd.apps.googleusercontent.com
+proj.requireGPlus=true
+android.SetupDone=true
+ios.ClientId=90347981955-om0hkg7i5pb84otqki7p2i91krbgh30s.apps.googleusercontent.com
+ios.ResourceData=%23define+CLIENT_ID+%40%2290347981955-om0hkg7i5pb84otqki7p2i91krbgh30s.apps.googleusercontent.com%22%0a%23define+ACH_PUCCA_1+%40%22CgkIg5mjydACEAIQAQ%22%0a%23define+ACH_PUCCA_2+%40%22CgkIg5mjydACEAIQAg%22%0a%23define+ACH_PUCCA_3+%40%22CgkIg5mjydACEAIQAw%22%0a%23define+ACH_PUCCA_4+%40%22CgkIg5mjydACEAIQBA%22%0a%23define+ACH_PUCCA_5+%40%22CgkIg5mjydACEAIQBQ%22%0a%23define+LEAD_PUCCA_1+%40%22CgkIg5mjydACEAIQBg%22%0a
+ios.BundleId=com.mseedgames.withpuccawars
+ios.SetupDone=true
